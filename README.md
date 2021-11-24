@@ -1,2 +1,2 @@
-# KlasifikasiGambar
-Aplikasi kecil untuk menunjukkan proses klasifikasi gambar. Salah satu tugas matakuliah Pengolahan Citra Digital.
+# Ekstrasi Fitur
+Aplikasi kecil untuk mengekstrasi fitur pada gambar
